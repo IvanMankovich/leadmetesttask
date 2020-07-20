@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/leadmetesttask/static/css/main.41d45e29.chunk.css",
+    "main.js": "/leadmetesttask/static/js/main.4a1ce3b9.chunk.js",
+    "main.js.map": "/leadmetesttask/static/js/main.4a1ce3b9.chunk.js.map",
+    "runtime-main.js": "/leadmetesttask/static/js/runtime-main.c27f7405.js",
+    "runtime-main.js.map": "/leadmetesttask/static/js/runtime-main.c27f7405.js.map",
+    "static/js/2.3b9f8e1f.chunk.js": "/leadmetesttask/static/js/2.3b9f8e1f.chunk.js",
+    "static/js/2.3b9f8e1f.chunk.js.map": "/leadmetesttask/static/js/2.3b9f8e1f.chunk.js.map",
+    "index.html": "/leadmetesttask/index.html",
+    "precache-manifest.d47144a446b0a578cce0b2e2bec35d3c.js": "/leadmetesttask/precache-manifest.d47144a446b0a578cce0b2e2bec35d3c.js",
+    "service-worker.js": "/leadmetesttask/service-worker.js",
+    "static/css/main.41d45e29.chunk.css.map": "/leadmetesttask/static/css/main.41d45e29.chunk.css.map",
+    "static/js/2.3b9f8e1f.chunk.js.LICENSE.txt": "/leadmetesttask/static/js/2.3b9f8e1f.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/leadmetesttask/static/media/kisspng-dairy-cattle-miglioranza-s-r-l-calf-beef-cattle-dairy-cattle-5b0dce65346ed5-1 4.0eeab24b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c27f7405.js",
+    "static/js/2.3b9f8e1f.chunk.js",
+    "static/css/main.41d45e29.chunk.css",
+    "static/js/main.4a1ce3b9.chunk.js"
+  ]
+}
